@@ -6,9 +6,9 @@ install redis
 install tree
 install zsh
 install hub
-install mongodb
+# install mongodb
 install the_silver_searcher
-install mysql
+# install mysql
 
 cask install google-chrome
 cask install keyremap4macbook
@@ -18,3 +18,5 @@ cask install virtualbox
 cask install vagrant
 cask install java
 cask install android-studio
+cask install limechat
+cask install dropbox
