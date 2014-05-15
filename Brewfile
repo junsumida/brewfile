@@ -18,6 +18,12 @@ install the_silver_searcher
 install mysql
 install rbenv
 install ruby-build
+install redis
+install memcached
+
+# Docker
+install boot2docker
+install docker
 
 cask install google-chrome
 cask install keyremap4macbook
