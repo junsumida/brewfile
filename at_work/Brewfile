@@ -1,0 +1,14 @@
+update
+
+upgrade
+
+install redis
+install mysql --cc=llvm-gcc
+install tree
+install zsh
+install hub
+install the_silver_searcher
+install boot2docker
+install docker
+
+cleanup
