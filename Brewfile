@@ -9,6 +9,7 @@ install hub
 # install mongodb
 install the_silver_searcher
 # install mysql
+install docker
 
 cask install google-chrome
 cask install keyremap4macbook
@@ -20,4 +21,3 @@ cask install vagrant
 # cask install android-studio
 # cask install limechat
 cask install dropbox
-cask install docker
