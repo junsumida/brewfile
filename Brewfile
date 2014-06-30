@@ -13,9 +13,10 @@ install redis
 install tree
 install zsh
 install hub
+install colordiff
 # install mongodb
 install the_silver_searcher
-install mysql
+install mysql --use-llvm
 install rbenv
 install ruby-build
 install redis
@@ -33,5 +34,6 @@ cask install vagrant
 cask install limechat
 cask install dropbox
 cask install google-japanese-ime
+cask install skype
 
 cleanup
