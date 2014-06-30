@@ -1,0 +1,27 @@
+update
+
+upgrade
+
+tap phinze/homebrew-cask
+install brew-cask
+
+install redis
+install mysql --cc=llvm-gcc
+install tree
+install zsh
+install hub
+install the_silver_searcher
+install mysql
+install memcached
+
+# Docker & Vagrant
+install boot2docker
+install docker
+cask install virtualbox
+cask install vagrant
+
+# Ruby
+install rbenv
+install ruby-build
+
+cleanup

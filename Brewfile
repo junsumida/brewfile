@@ -31,6 +31,8 @@ cask install keyremap4macbook
 cask install hipchat
 cask install virtualbox
 cask install vagrant
+# cask install java
+# cask install android-studio
 cask install limechat
 cask install dropbox
 cask install google-japanese-ime
