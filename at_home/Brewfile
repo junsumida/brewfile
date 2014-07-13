@@ -24,4 +24,9 @@ cask install vagrant
 install rbenv
 install ruby-build
 
+cask install rubymine
+cask install atom
+cask install limechat
+cask install karabiner 
+
 cleanup
