@@ -27,6 +27,6 @@ install ruby-build
 cask install rubymine
 cask install atom
 cask install limechat
-cask install karabiner 
+cask install karabiner
 
 cleanup
