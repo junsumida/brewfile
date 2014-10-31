@@ -23,5 +23,7 @@ brew cask install atom
 brew cask install karabiner
 brew cask install google-japanese-ime
 brew cask install dropbox
+brew cask install virtualbox 
+brew cask install vagrant
 
 brew cleanup
