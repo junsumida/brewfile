@@ -3,6 +3,7 @@ brew upgrade
 brew tap phinze/homebrew-cask
 brew install brew-cask
 
+brew install wget
 brew install redis
 brew install mysql --cc=llvm-gcc
 brew install tree
@@ -14,7 +15,7 @@ brew install mysql
 brew install memcached
 brew install colordiff
 
-brew # Ruby
+# Ruby
 brew install rbenv
 brew install ruby-build
 
@@ -25,5 +26,9 @@ brew cask install google-japanese-ime
 brew cask install dropbox
 brew cask install virtualbox 
 brew cask install vagrant
+
+# Docker
+install boot2docker
+install docker
 
 brew cleanup
