@@ -20,12 +20,14 @@ brew install rbenv
 brew install ruby-build
 
 brew cask install rubymine
+brew cask install intellij-idea-ce
 brew cask install atom
 brew cask install karabiner
 brew cask install google-japanese-ime
 brew cask install dropbox
 brew cask install virtualbox 
 brew cask install vagrant
+brew cask install hipchat
 
 # Docker
 install boot2docker
