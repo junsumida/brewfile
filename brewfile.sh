@@ -33,7 +33,11 @@ brew cask install hipchat
 brew cask install amethyst
 
 # Docker
-install boot2docker
-install docker
+brew install boot2docker
+brew install docker
+
+# Haskell
+# for scotty on heroku
+brew install postgresql
 
 brew cleanup
