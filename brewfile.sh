@@ -40,4 +40,7 @@ brew install docker
 # for scotty on heroku
 brew install postgresql
 
+# heroku
+brew cask install heroku-toolbelt
+
 brew cleanup
