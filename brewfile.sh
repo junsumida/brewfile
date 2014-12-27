@@ -19,15 +19,18 @@ brew install colordiff
 brew install rbenv
 brew install ruby-build
 
+# editors
 brew cask install rubymine
 brew cask install intellij-idea-ce
 brew cask install atom
+
 brew cask install karabiner
 brew cask install google-japanese-ime
 brew cask install dropbox
 brew cask install virtualbox 
 brew cask install vagrant
 brew cask install hipchat
+brew cask install amethyst
 
 # Docker
 install boot2docker
