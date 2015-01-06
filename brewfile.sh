@@ -15,6 +15,10 @@ brew install mysql
 brew install memcached
 brew install colordiff
 
+# commandline tools
+brew tap peco/peco
+brew install peco
+
 # Ruby
 brew install rbenv
 brew install ruby-build
