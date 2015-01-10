@@ -18,6 +18,7 @@ brew install colordiff
 # commandline tools
 brew tap peco/peco
 brew install peco
+brew install pv
 
 # Ruby
 brew install rbenv
