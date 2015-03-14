@@ -48,4 +48,7 @@ brew install postgresql
 # heroku
 brew cask install heroku-toolbelt
 
+# scala
+brew install sbt
+
 brew cleanup
