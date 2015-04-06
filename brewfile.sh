@@ -50,5 +50,9 @@ brew cask install heroku-toolbelt
 
 # scala
 brew install sbt
+brew install scala
+
+# ansible
+brew install ansible
 
 brew cleanup
