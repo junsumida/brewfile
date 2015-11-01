@@ -55,4 +55,10 @@ brew install scala
 # ansible
 brew install ansible
 
+# go lang
+brew install go
+
+# Ops
+brew install mtr
+
 brew cleanup
