@@ -1,7 +1,6 @@
 brew update
 brew upgrade
-brew tap phinze/homebrew-cask
-brew install brew-cask
+brew cask update
 
 brew install wget
 brew install tree
@@ -10,6 +9,9 @@ brew install zsh
 brew install hub
 brew install vim
 brew install the_silver_searcher
+
+# essentials
+brew cask install karabiner
 
 # commandline tools
 brew tap peco/peco
@@ -21,13 +23,16 @@ brew install rbenv
 brew install ruby-build
 
 # editors
-brew cask install rubymine
 brew cask install atom
+#brew cask install rubymine
 
-brew cask install karabiner
 brew cask install dropbox
+
+# Virtual Machines
 brew cask install virtualbox 
 brew cask install vagrant
+brew install docker
+brew install docker-machine
 
 # ansible
 brew install ansible
@@ -39,3 +44,4 @@ brew install go
 brew install mtr
 
 brew cleanup
+brew cask cleanup
