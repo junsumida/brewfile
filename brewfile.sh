@@ -8,15 +8,16 @@ brew install tig
 brew install zsh
 brew install hub
 brew install vim
+brew instlal tmux
 brew install the_silver_searcher
 
 # essentials
 brew cask install karabiner
 
 # commandline tools
-brew tap peco/peco
+#brew tap peco/peco
 brew install peco
-brew install pv
+#brew install pv
 
 # Ruby
 brew install rbenv
