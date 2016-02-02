@@ -43,6 +43,7 @@ brew install go
 
 # Ops
 brew install mtr
+brew install packer
 
 brew cleanup
 brew cask cleanup
