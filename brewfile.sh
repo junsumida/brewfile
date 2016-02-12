@@ -45,5 +45,8 @@ brew install go
 brew install mtr
 brew install packer
 
+# database
+brew install mysql
+
 brew cleanup
 brew cask cleanup
