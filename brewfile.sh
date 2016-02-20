@@ -8,7 +8,7 @@ brew install tig
 brew install zsh
 brew install hub
 brew install vim
-brew instlal tmux
+brew install tmux
 brew install the_silver_searcher
 
 # essentials
